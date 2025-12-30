@@ -1,4 +1,4 @@
-# 📈 FinanceHub - AI-Powered Financial Analysis Dashboard
+# FinanceHub - AI-Powered Financial Analysis Dashboard
 
 > **Intelligent stock analysis using natural language queries and AI-powered insights**
 
@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
 
-## 🌟 Overview
+## Overview
 
 FinanceHub is a sophisticated financial analysis platform that combines the power of AI language models with real-time stock market data. Ask questions about any stock in plain English and get comprehensive, data-driven insights powered by Groq's advanced LLM.
 
@@ -136,30 +136,4 @@ financial-analysis-mcp/
 - **pandas** - Data manipulation
 - **python-dotenv** - Environment variables
 
-## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Groq](https://groq.com) - For their powerful LLM API
-- [Yahoo Finance](https://finance.yahoo.com) - For real-time market data
-- [Streamlit](https://streamlit.io) - For the amazing web framework
-
-## 📞 Support
-
-For issues, questions, or suggestions, please open an issue on GitHub or contact the development team.
-
----
-
-**Built with ❤️ for financial enthusiasts and developers**
