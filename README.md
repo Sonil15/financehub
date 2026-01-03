@@ -99,7 +99,7 @@ python src/ask_finance.py "Show me Apple's P/E ratio and stock history"
 "Is Tesla overvalued based on its P/E ratio?"
 ```
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 financial-analysis-mcp/
@@ -116,7 +116,7 @@ financial-analysis-mcp/
 └── LICENSE                    # MIT License
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -126,7 +126,7 @@ financial-analysis-mcp/
 | `MCP_SERVER_URL` | Backend server URL | Yes |
 | `LOG_LEVEL` | Logging level (DEBUG/INFO/ERROR) | No |
 
-## 📦 Dependencies
+## Dependencies
 
 - **streamlit** - Web UI framework
 - **flask** - Backend server
