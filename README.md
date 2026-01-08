@@ -7,7 +7,7 @@
 
 ## Overview
 
-FinanceHub is a sophisticated financial analysis platform that combines the power of AI language models with real-time stock market data. Ask questions about any stock in plain English and get comprehensive, data-driven insights powered by Groq's advanced LLM.
+FinanceHub is a financial analysis platform that combines the power of AI language models with stock market data. Ask questions about any stock in plain English and get comprehensive, data-driven insights powered by Groq's advanced LLM.
 
 ### Key Capabilities
 
