@@ -83,7 +83,7 @@ python src/ask_finance.py "What is the current price of AAPL?"
 python src/ask_finance.py "Show me Apple's P/E ratio and stock history"
 ```
 
-## 📚 Usage Examples
+## Usage Examples
 
 ### Web Dashboard
 - Search for any stock ticker
