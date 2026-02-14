@@ -4,6 +4,9 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2545e295-8c5a-41b2-96cc-568c21e054dc" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c7f1d216-3078-4d1d-99e7-91c82e8c6382" />
+
 
 ## Overview
 
